@@ -1,0 +1,62 @@
+body {
+    background-color: #00c9643a !important;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+.label {
+    margin-bottom: 0px;
+}
+
+select {
+    overflow: hidden;
+}
+.navbar {
+    background-color: #4d8076 !important;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.nav-link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    color: #000;
+    padding-left: 2rem !important;
+}
+.nav-span {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    color: #000;
+    padding-left: 2rem !important;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #845ec2 !important;
+}
+
+button {
+    background-color: #4e8397 !important;
+    border-color: #4e8397 !important;
+}
+
+.forms {
+    max-width: 400px;
+    width: 95%;
+    margin: 5rem auto 0 auto;
+}
+
+.row {
+    width: initial;
+}
